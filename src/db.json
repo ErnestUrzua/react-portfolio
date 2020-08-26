@@ -1,0 +1,51 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "image": "./img/AnimationTransitions.jpg",
+            "name": "animation transitions"
+        },
+        {
+            "id": 2,
+            "image": "./img/DemoReel.jpg",
+            "name": "Demo Reel"
+        },
+        {
+            "id": 3,
+            "image": "./img/kda-akali-click-game.jpg",
+            "name": "kda akali click game"
+        },
+        {
+            "id": 4,
+            "image": "./img/projectX.jpg",
+            "name": "Project X"
+        },
+        {
+            "id": 5,
+            "image": "./img/shoppinator.png",
+            "name": "Shoppinator"
+        },
+        {
+            "id": 6,
+            "image": "./img/weather-dashboard.png",
+            "name": "Weather Dashboard"
+        },
+        {
+            "id": 7,
+            "image": "./img/workday-scheduler.png",
+            "name": "Workday Scheduler"
+        }
+    ],
+    "assets": [
+        {
+            "id": 1,
+            "image": "./img/me.jpg",
+            "name": "me"
+        },
+        {
+            "id": 2,
+            "image": "./img/aboutMe.png",
+            "name": "About Me"
+        }
+    ]
+}
