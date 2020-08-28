@@ -1,18 +1,6 @@
 {
     "projects": [
         {
-            "id": 1,
-            "image": "./img/AnimationTransitions.jpg",
-            "name": "animation transitions",
-            "link": "https://google.com"
-        },
-        {
-            "id": 2,
-            "image": "./img/DemoReel.jpg",
-            "name": "Demo Reel",
-            "link": "https://google.com"
-        },
-        {
             "id": 3,
             "image": "./img/kda-akali-click-game.jpg",
             "name": "kda akali click game",
@@ -41,6 +29,18 @@
             "image": "./img/workday-scheduler.png",
             "name": "Workday Scheduler",
             "link": "https://ernesturzua.github.io/workday-scheduler/"
+        },
+        {
+            "id": 1,
+            "image": "./img/AnimationTransitions.jpg",
+            "name": "animation transitions",
+            "link": "https://ernieurzua.com/project02.html"
+        },
+        {
+            "id": 2,
+            "image": "./img/DemoReel.jpg",
+            "name": "Demo Reel",
+            "link": "https://ernieurzua.com/project03.html"
         }
     ],
     "assets": [
