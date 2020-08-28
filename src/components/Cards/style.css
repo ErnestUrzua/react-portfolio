@@ -27,6 +27,14 @@
     z-index: 1;
 }
 
+.card-img-overlay {
+    padding-top: 60%;
+}
+
+.card-title {
+   font-size: 2rem;
+   font-weight: bold;
+}
 
 .transition1 {
     transition: transform .2s; /* Animation */
@@ -36,4 +44,11 @@
   .transition1:hover {
     transform: scale(1.03); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
     filter: saturate(1);
+  }
+
+  a {
+    color:#e3532f;
+  }
+  a :hover {
+    color:#b6bbae !important;
   }

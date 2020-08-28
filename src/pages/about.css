@@ -1,0 +1,20 @@
+.image {
+  width: 70%;
+  align-content: center;
+  margin-left: 10%;
+  border-radius: 1%;
+
+  display: inline-block;
+}
+
+a {
+  color:#e3532f;
+}
+a :hover {
+  color:#b6bbae !important;
+}
+
+.card-title {
+ font-size: 2rem;
+ font-weight: bold;
+}

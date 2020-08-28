@@ -1,14 +1,15 @@
 import React, { Component } from "react";
-import "./main.css";
+import "./about.css";
 import Img from "../db.json";
 import Cards from "../components/Cards";
 
 
 
+
 class About extends Component {
 
-   //holds our game information
-   state = {
+  //holds our game information
+  state = {
     Img //array of all imgs from json file
   };
 
@@ -27,18 +28,24 @@ class About extends Component {
   render() {
     return (
       <div>
-        {/* container to hold project cards */}
-        <div className="container-fluid p-2 col-9 justify-content-center white">
-          {
+        {/* container to hold about me cards */}
+        <div className="container p-2 col-12 white">
         
-              <Cards
-                image={this.state.Img.assets[0].image}
-                name={this.state.Img.assets[0].name}
-              />
-            
-          }
+          <img className="image" src={this.state.Img.assets[0].image} ></img>
+         
+            <div className="container w-50 orange-text">
+              <p>My passion for creation first started in Animation
+              and art. Through the process of creating
+              I realized that designing, building, and iterating is something that is common amongst many
+              disciplines, more specifically software development.
+              This shared creation process has naturally led me to software development and its fascinating
+              power.
+              Joining both my passions of art and technology only expands my skill set to have a
+            unique perspective on creation.</p>
+            </div>
         </div>
-      </div>
+
+        </div>
     );
   }
 }

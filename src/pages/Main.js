@@ -29,7 +29,7 @@ class Main extends Component {
     return (
       <div>
         {/* container to hold project cards */}
-        <div className="container-fluid p-2 col-9 justify-content-center white">
+        <div className="container-fluid p-2 col-12 justify-content-center white">
           {
             /* Loop through all the items in the static list  */
             this.state.Img.projects.map(item => (
@@ -40,6 +40,7 @@ class Main extends Component {
                 handleClick={this.handleItemClick}
                 image={item.image}
                 link = {item.link}
+                description = {item.description}
               />
             ))
           }

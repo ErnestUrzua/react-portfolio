@@ -5,7 +5,7 @@
 
 p {
   text-align: center;
-  font-size: 50px;
+  font-size: 14px;
   font-family: Monserrat;
 }
 
@@ -54,3 +54,11 @@ a :hover {
   color:#b6bbae !important;
 }
 
+.card-img-overlay {
+  padding-top: 60%;
+}
+
+.card-title {
+ font-size: 2rem;
+ font-weight: bold;
+}

@@ -11,7 +11,7 @@ function Cards(props) {
             <div className="card-img-overlay">
             <a className="card-title" href={props.link} target="_blank" rel="noopener noreferrer">{props.name}</a>
             </div>
-            <p className="card-text text-center">some description</p>
+            <p className="card-text text-center">{props.description}</p>
         </div>
     );
 }

@@ -3,44 +3,51 @@
         {
             "id": 3,
             "image": "./img/kda-akali-click-game.jpg",
-            "name": "kda akali click game",
-            "link": "https://ernesturzua.github.io/kda-akali-click-game/"
+            "name": "KDA Akali Click Game",
+            "link": "https://ernesturzua.github.io/kda-akali-click-game/",
+            "description": "Akali is a League of Legends Champion, and this game is a memory based click game that shuffles after every click."
         },
         {
             "id": 4,
             "image": "./img/projectX.jpg",
             "name": "Project X",
-            "link": "https://fast-meadow-38464.herokuapp.com/"
+            "link": "https://fast-meadow-38464.herokuapp.com/",
+            "description": "Project X is a choose your own adventure game, utilizing Particle.js, mysql and materialize css."
         },
         {
             "id": 5,
             "image": "./img/shoppinator.png",
             "name": "Shoppinator",
-            "link": "https://ernesturzua.github.io/Shoppinator/"
+            "link": "https://ernesturzua.github.io/Shoppinator/",
+            "description": "Shoppinator is a shopping app that allows you to take a picture of an object and retrieves the nearest stores."
         },
         {
             "id": 6,
             "image": "./img/weather-dashboard.png",
             "name": "Weather Dashboard",
-            "link": "https://ernesturzua.github.io/weather-dashboard/"
+            "link": "https://ernesturzua.github.io/weather-dashboard/",
+            "description": "Weather Dashboard is simple and easy to use to find the weather in any part of the country using openWeather api."
         },
         {
             "id": 7,
             "image": "./img/workday-scheduler.png",
             "name": "Workday Scheduler",
-            "link": "https://ernesturzua.github.io/workday-scheduler/"
+            "link": "https://ernesturzua.github.io/workday-scheduler/",
+            "description": "Workday Scheduler is a simple easy to use task saver that holds persistant data and highlights the current hour."
         },
         {
             "id": 1,
             "image": "./img/AnimationTransitions.jpg",
-            "name": "animation transitions",
-            "link": "https://ernieurzua.com/project02.html"
+            "name": "Animation Transitions",
+            "link": "https://ernieurzua.com/project02.html",
+            "description":"Transitions are keyframed in UIKit for the IOS."
         },
         {
             "id": 2,
             "image": "./img/DemoReel.jpg",
             "name": "Demo Reel",
-            "link": "https://ernieurzua.com/project03.html"
+            "link": "https://ernieurzua.com/project03.html",
+            "description": "Animation Demo reel of various motion capture and keyframed shots."
         }
     ],
     "assets": [
