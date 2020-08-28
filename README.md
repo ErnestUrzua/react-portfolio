@@ -1,21 +1,17 @@
-# KDA Akali Clicky Game
-clicky game built in React
-user must click a single image only once or else score resets.
-Images get shuffled after each click for added difficulty
+# Portfolio in React
+Personal portfolio website built in React, utilizing reusable components such as header, footer, cards, etc..
+
 
 ## Application specifications
 - must be in react.js
-- must keep current score and high score
-- must shuffle pictures after each click 
+- must use router or other for handling routes
+- must have reusable components to be used in multiple pages
 
 # Screenshots
 ![Main Page](./assets/ss1.jpg)
-- on hover card changes color
-![Hover effect](./assets/ss2.png)
-![Hover effect](./assets/ss3.png)
 
 
-- [Live Link to app](https://ernesturzua.github.io/kda-akali-click-game/)
+- [Live Link to app](https://ernesturzua.github.io/react-portfolio/)
 
 
 
