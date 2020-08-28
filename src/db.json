@@ -15,27 +15,32 @@
         {
             "id": 3,
             "image": "./img/kda-akali-click-game.jpg",
-            "name": "kda akali click game"
+            "name": "kda akali click game",
+            "link": "https://ernesturzua.github.io/kda-akali-click-game/"
         },
         {
             "id": 4,
             "image": "./img/projectX.jpg",
-            "name": "Project X"
+            "name": "Project X",
+            "link": "https://fast-meadow-38464.herokuapp.com/"
         },
         {
             "id": 5,
             "image": "./img/shoppinator.png",
-            "name": "Shoppinator"
+            "name": "Shoppinator",
+            "link": "https://ernesturzua.github.io/Shoppinator/"
         },
         {
             "id": 6,
             "image": "./img/weather-dashboard.png",
-            "name": "Weather Dashboard"
+            "name": "Weather Dashboard",
+            "link": "https://ernesturzua.github.io/weather-dashboard/"
         },
         {
             "id": 7,
             "image": "./img/workday-scheduler.png",
-            "name": "Workday Scheduler"
+            "name": "Workday Scheduler",
+            "link": "https://ernesturzua.github.io/workday-scheduler/"
         }
     ],
     "assets": [
