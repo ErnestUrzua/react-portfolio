@@ -23,6 +23,11 @@
     left: 10%;
 }
 
+.card-text {
+    z-index: 1;
+}
+
+
 .transition1 {
     transition: transform .2s; /* Animation */
     transform: translate(-10px, 10px);

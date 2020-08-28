@@ -5,8 +5,7 @@ import Cards from "../components/Cards";
 
 
 
-class Main extends Component {
-
+class About extends Component {
 
    //holds our game information
    state = {
@@ -31,17 +30,12 @@ class Main extends Component {
         {/* container to hold project cards */}
         <div className="container-fluid p-2 col-9 justify-content-center white">
           {
-            /* Loop through all the items in the static list  */
-            this.state.Img.projects.map(item => (
+        
               <Cards
-                key={item.id}
-                id={item.id}
-                name={item.name}
-                handleClick={this.handleItemClick}
-                image={item.image}
-                link = {item.link}
+                image={this.state.Img.assets[0].image}
+                name={this.state.Img.assets[0].name}
               />
-            ))
+            
           }
         </div>
       </div>
@@ -49,4 +43,4 @@ class Main extends Component {
   }
 }
 
-export default Main;
+export default About;

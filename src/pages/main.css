@@ -6,11 +6,11 @@
 p {
   text-align: center;
   font-size: 50px;
-  font-family: 'Bangers', cursive !important;
+  font-family: Monserrat;
 }
 
 html {
-  font-family: 'Bangers', cursive !important;
+  font-family: Montserrat;
 }
 
 .transition1 {
@@ -21,3 +21,36 @@ html {
   transform: scale(1.03); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
   filter: saturate(2);
 }
+
+.green {
+  color:#3b6552;
+  background-color: #3b6552 !important;
+}
+
+.orange {
+  color: #e3532f;
+  background-color: #e3532f !important;
+}
+
+.white {
+  background-color: #b6bbae !important;
+}
+
+.orange-text {
+  color: #e3532f !important;
+}
+
+.collection a.collection-item {
+  display: block;
+  -webkit-transition: .25s;
+  transition: .25s;
+  color: #e3532f;
+}
+
+a {
+  color:#e3532f;
+}
+a :hover {
+  color:#b6bbae !important;
+}
+

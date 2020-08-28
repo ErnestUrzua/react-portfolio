@@ -1,9 +1,8 @@
 .footer {
   min-height: 100px;
-  background: #3a3a3a;
   position: relative;
   text-align: center;
-  font-family: 'Bangers', cursive !important;
+  font-family: Montserrat;
 }
 
 .footer span {
@@ -12,5 +11,16 @@
   left: 0;
   right: 0;
   padding: 3px;
-  color: antiquewhite;
+}
+.footer-icons {
+  font-size: xx-large;
+  padding: 5px;
+}
+
+html {
+  font-family: Montserrat;
+}
+
+a.hover {
+  color:#b6bbae !important;
 }
