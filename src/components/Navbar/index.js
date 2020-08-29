@@ -19,7 +19,7 @@ function Navbar() {
         <span>
         <ul className="navbar-nav">
             <li className="nav-link">
-              <Link to="/">Projects</Link>
+              <Link to="/projects">Projects</Link>
             </li>
             <li className="nav-link">
               <Link to="/about">About</Link>

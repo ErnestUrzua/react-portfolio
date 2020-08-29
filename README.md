@@ -6,25 +6,20 @@ Personal portfolio website built in React, utilizing reusable components such as
 - must be in react.js
 - must use router or other for handling routes
 - must have reusable components to be used in multiple pages
+    - e.g. footer, header, cards..
+- updated github profile with pinned repos featuring the same projects
 
-# Screenshots
-![Main Page](./assets/ss1.jpg)
+## Screenshots
 
+### animated project cards have title and description with link
+![Main Page](./assets/ss1.png)
 
-- [Live Link to app](https://ernesturzua.github.io/react-portfolio/)
+### footer contains links to Github and linkedIn
+![Footer Section](./assets/ss2.png)
 
+### about me gives a quick bio and picture
+![About Me](./assets/ss3.png)
 
+## Live Link to page
+[Live Link to app](https://ernesturzua.github.io/react-portfolio/)
 
-* Updated portfolio featuring 6 total projects
-
-* Use React
-
-* A `Header` component that appears on multiple pages
-
-* A single `Project` component that will be used multiple times on a single page 
-
-* Navigation with React Router, dynamic rendering, or another third part router
-
-* A `Footer` component that appears on multiple pages
-
-* Update GitHub profile with pinned repositories featuring those same projects
